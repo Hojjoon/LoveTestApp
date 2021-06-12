@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoveTest</string>
+    <string name="main_title">Let us find out your love type!</string>
+    <string name="question">There were favorite flowers in the flowerbase.
+    As time goes, the flowers have all withered\n
+    What are you going to do with that?</string>
+
+</resources>
